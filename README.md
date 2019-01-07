@@ -1,5 +1,5 @@
 # PathFinder_Hack
-A interesting way of transferring messages through the second hand of Clock. 
+An interesting way of transferring messages through the second hand of Clock. 
 The Program will represented all 256 ASCII values in 360Degree format (weighing 1.40625Degree for each ascii value).
 And these degrees in a collection can be converted into human readable Text.
 ->PathFinder_Hack_in_Python:
